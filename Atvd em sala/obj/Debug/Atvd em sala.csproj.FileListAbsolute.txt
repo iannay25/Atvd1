@@ -1,0 +1,11 @@
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\bin\Debug\Atvd em sala.exe.config
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\bin\Debug\Atvd em sala.exe
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\bin\Debug\Atvd em sala.pdb
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\obj\Debug\Atvd em sala.csproj.AssemblyReference.cache
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\obj\Debug\Atvd em sala.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\obj\Debug\Atvd_em_sala.Form1.resources
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\obj\Debug\Atvd_em_sala.Properties.Resources.resources
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\obj\Debug\Atvd em sala.csproj.GenerateResource.cache
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\obj\Debug\Atvd em sala.csproj.CoreCompileInputs.cache
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\obj\Debug\Atvd em sala.exe
+C:\Users\ianna\source\repos\Atvd em sala\Atvd em sala\obj\Debug\Atvd em sala.pdb
